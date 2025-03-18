@@ -10,7 +10,7 @@ const Banner = () => {
             <span className='text-violet-700'>Rent</span> Your Dream House with Us.
           </h1>
           <p className='max-w-[480px] mb-8'>
-            Welcome to [Your Website Name], your go-to destination for finding the perfect rental home.
+            Welcome to My Real Estate, your go-to destination for finding the perfect rental home.
             Whether you're searching for a cozy apartment, a spacious villa, or a modern townhouse,
             we connect tenants with property owners effortlessly
           </p>
